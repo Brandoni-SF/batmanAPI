@@ -89,6 +89,12 @@ Contributions are welcome.
 
 Educational use.
 
+## Future Ideas
+
+- Gotham weather  
+- Alfred assistant  
+- Bat-Signal tracker  
+
 
 ## Author
 
